@@ -1,6 +1,6 @@
 # MathGame
 -Simple math game written in Swift UI.
--For each correct answer user gets "1" point.
+-For each correct answer user gets "1" point
 -For each wrong answer loses "1" point.
 
 ![Simulator Screen Shot - iPhone 13 - 2022-10-08 at 21 12 47](https://user-images.githubusercontent.com/85180299/194723006-22aa17cc-75c5-4334-8c9b-174183c04053.png)
